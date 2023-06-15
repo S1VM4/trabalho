@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(../imagem/galazy.png);
+    background-size: 2570px;
+}
+
+header {
+    background-color: #52d7ff;
+    padding: 30px;
+    text-align: left;
+    color: #fff;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.projeto {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.507);
+    font-size: larger
+}
+
+.projeto h2 {
+    margin: 0;
+}
+
+.projeto p {
+    margin-top: 10px;
+}
+nav ul {
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px;
+}
+nav ul li a:hover {
+    background-color: #333;
+    color: #fff;
+}
+img{
+    width: 750px;
+    height: 590px;
+}
